@@ -1,7 +1,7 @@
 - 👋 Oi eu sou a Juliana Bragato.
 - 👀 Eu tenho interresse em uma oportunidade de Estágio ou vaga na Programação.
 - 🌱 Atualmente estou aprendendo Java, JavaScript, HTML e CSS.
-- 💞️ Sou muito pró-ativa,gosto de colaborar e aprender coisas novas.
+- 💞️ Sou muito pró-ativa, gosto de colaborar e aprender coisas novas.
 
 <br>
 
